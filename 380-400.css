@@ -4,7 +4,7 @@
     }
     .firstpage{
         z-index: -1;
-        height: 800px;
+        height: 490px;
         max-width: 400px;
         left: 0px;
         top: 0px;
@@ -298,3 +298,163 @@
       }
       
   }
+      /* second page */
+
+      .myintro{
+        display: none;
+      }
+      .border1{
+        position: absolute;
+        left: 55px;
+        top: 224px;
+        border-right: 2px solid rgb(67, 167, 255);
+        border-bottom: 2px solid rgb(67, 167, 255);
+        height: 60px;
+        width: 60px;
+        z-index: -1;
+      }
+      .border2{
+        position: absolute;
+        left: -25px;
+        top: 110px;
+        border-left: 2px solid rgb(67, 167, 255);
+        border-top: 2px solid rgb(67, 167, 255);
+        height: 60px;
+        width: 60px;
+        z-index: -1;
+      }
+      .Ganesh2{
+        width: 130px;
+        position: absolute;
+        left: -20px;
+        top: 115px;
+        z-index: -1;
+      }
+      .AboutMe{
+        font-size: 30px;
+        position: absolute;
+        left: 80px;
+        top: -20px;
+        z-index: -1;
+      }
+      .briefintro{
+        display: none;
+      }
+      .briefintroresponsive{
+        display: inline;
+        position: absolute;
+        left: 75px;
+        top: 115px;
+        font-size: 8px;
+        font-family: 'Courier New', monospace;
+      }
+      .profilephoto,.phonelogo,.emaillogo,.phonetext,.Name-ganesh,.semi1,.GaneshGhatti,.semi2,.phonenumber,.emailtext,.semi3,.emailid,.music,.chess,.editing,.cycle,.fa-headphones,.fa-chess,.fa-video,.fa-bicycle{
+        font-size: 8px;
+      }
+      .profilephoto{
+        position: absolute;
+        left: 170px;
+        top: 835px;
+      }
+      .phonelogo{
+        position: absolute;
+        left: 170px;
+        top: 860px; 
+      }
+      .emaillogo{
+        position: absolute;
+        left: 170px;
+        top: 885px;
+      }
+      .Name-ganesh{
+        position: absolute;
+        left: 195px;
+        top: 835px;
+      }
+      .phonetext{
+        position: absolute;
+        left: 195px;
+        top: 860px;
+      }
+      .semi1{
+        position: absolute;
+        left: 245px;
+        top: 835px;
+      }
+      .GaneshGhatti{
+        position: absolute;
+        left: 265px;
+        top: 835px;
+      }
+      .semi2{
+        position: absolute;
+        left: 245px;
+        top: 860px;
+      }
+      .phonenumber{
+        position: absolute;
+        left: 265px;
+        top: 860px;
+      }
+      .emailtext{
+        position: absolute;
+        left: 195px;
+        top: 885px;
+      }
+      .semi3{
+        position: absolute;
+        left: 245px;
+        top: 885px;
+      }
+      .emailid{
+        position: absolute;
+        left: 265px;
+        top: 885px;
+      }
+      .myintrests{
+        font-size: 15px;
+        font-weight: 600;
+        position: absolute;
+        left: 60px;
+        top: 940px;
+      }
+      .fa-headphones{
+        position: absolute;
+        left: 60px;
+        top: 985px;
+      }
+      .music{
+        position: absolute;
+        left: 75px;
+        top: 985px;
+      }
+      .fa-chess{
+        position: absolute;
+        left: 130px;
+        top: 985px;
+      }
+      .chess{
+        position: absolute;
+        left: 145px;
+        top: 985px;
+      }
+      .fa-video{
+        position: absolute;
+        left: 190px;
+        top: 985px;
+      }
+      .editing{
+        position: absolute;
+        left: 215px;
+        top: 985px;
+      }
+      .fa-bicycle{
+        position: absolute;
+        left: 290px;
+        top: 985px;
+      }
+      .cycle{
+        position: absolute;
+        left: 305px;
+        top: 985px;
+      }
