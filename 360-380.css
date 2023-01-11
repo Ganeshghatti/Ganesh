@@ -154,7 +154,7 @@
         top: -10px;
     }
     .undergrad{
-        font-size: 10px;
+        font-size: 8px;
         position: absolute;
         left: 150px;
         top: 18px;
@@ -174,10 +174,10 @@
         top: -10px;
     }
     .work{
-        font-size: 10px;
+        font-size: 8px;
         position: absolute;
         left: 255px;
-        top: 16px;
+        top: 18px;
         font-weight: 500;
         font-family: 'Poppins', sans-serif;
       }
