@@ -1,6 +1,6 @@
 @media screen and (max-width: 380px) and (min-width:360px) {
     .navbarx{
-        display: inline-block;
+        display:inline-block;
     }
     .firstpage{
         z-index: -1;
@@ -303,8 +303,7 @@
       .nav-container input[type="checkbox"]:checked ~ .logo{
         display: none;
       }
-      
-  }
+       
         /* second page */
 
         .myintro{
@@ -465,3 +464,4 @@
             left: 305px;
             top: 945px;
           }
+        }

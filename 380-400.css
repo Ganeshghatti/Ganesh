@@ -1,6 +1,6 @@
 @media screen and (max-width: 400px) and (min-width:380px) {
     .navbarx{
-        display: inline-block;
+        display:inline-block;
     }
     .firstpage{
         z-index: -1;
@@ -297,7 +297,7 @@
         display: none;
       }
       
-  }
+
       /* second page */
 
       .myintro{
@@ -458,3 +458,4 @@
         left: 305px;
         top: 985px;
       }
+    }

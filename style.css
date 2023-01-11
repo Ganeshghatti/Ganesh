@@ -74,7 +74,7 @@ ul{
 }
 .description{
     position: absolute;
-    left: 140px;
+    left: 150px;
     z-index: 1;
     top:280px ;
     color: rgb(103,103,103);
@@ -240,10 +240,6 @@ ul{
     left: 825px;
     top: 22px; 
 }
-.experienceresponsive{
-    display: none;
-    font-size: 0px;
-}
 .experience,.currently,.preference{
     color:rgb(67, 167, 255) ;
 }
@@ -322,9 +318,6 @@ ul{
     top: 165px;
     font-size: 15px;
     font-family: 'Courier New', monospace;
-}
-.briefintroresponsive{
-    display: none;
 }
 .profilephoto{
     position: absolute;
@@ -1045,6 +1038,6 @@ ul{
     top: 23px;
     color: white;
 }
-.navbarx{
+.navbarx,.experienceresponsive,.briefintroresponsive{
     display: none;
 }
